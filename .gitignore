@@ -1,2 +1,5 @@
+# python system files
+/__pycache__/
+
 # book data folder
 /books/
